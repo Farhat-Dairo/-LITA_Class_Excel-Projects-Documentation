@@ -32,3 +32,5 @@ This Data Analysis project aims to analyze sales operations to recommend profit-
 ---
  This Sales analysis provides actionable insights for the cookie company to sustain Profitablity by expanding sales efforts in high-profit countries ( Canada, France and the US), Optimizing chocolate chip production, and developing targeted marketing campaigns the company can drive growth and maintain its competitive edge.
 
+### Data Visualization
+
