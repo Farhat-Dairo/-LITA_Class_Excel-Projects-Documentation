@@ -1,2 +1,2 @@
-# LITA_Class_Documentation
+# Excel Projects Documentation
 Project Title: Cookie Company Sales Analysis
