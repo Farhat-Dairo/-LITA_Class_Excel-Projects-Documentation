@@ -18,7 +18,8 @@ This Data Analysis project aims to analyze sales operations to recommend profit-
 ### Tools Used
 - Excel ( Charts, Pivot Tables, SUM Function, Data Visualization)
 - Dataset: 701 Rows, 12 Columns ( Cleaned Dataset)
-
+- GitHub for Portfolio Building
+  
 ### Strategic Recommendations:
 - Based on the Analysis, I recommend expanding sales efforts in Canada, France and the United States, as these countries generated the highest profits.
 - Chocolate chip cookies have the highest production cost, yet simultaneously yield the highest profit
