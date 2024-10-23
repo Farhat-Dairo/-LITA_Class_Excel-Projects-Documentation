@@ -1,5 +1,19 @@
 #  LITA_Class_Excel_Projects_Documentation
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+
+- [Key Insights](#key-insights)
+  
+-  [Tools Used ](#tools-used)
+  
+-  [Strategic Recommendations](#strategic-recommendations)
+  
+-  [ Conclusion](#conclusion)
+  
+-  [Data Visualization](#data-visualization)
+  
 ### Project Title: Cookie Company Sales Analysis
 
 ### Project Overview
